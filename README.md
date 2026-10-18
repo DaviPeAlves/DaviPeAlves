@@ -4,6 +4,9 @@
 
 ### Davi Pereira
 
+Olá! Eu sou **Davi Pereira** Sou estudante de Informática no Instituto Federal do Sertão Pernambucano (IFSertãoPE), tenho 17 anos e estou desenvolvendo minhas habilidades na área de tecnologia e programação.
+Utilizo este espaço para compartilhar meus projetos, registrar minha evolução como desenvolvedor e explorar novos conhecimentos no mundo da tecnologia.
+
 ```json
 {
   "nome": "Davi Pereira",
